@@ -1,5 +1,5 @@
 # Card-Overview
-Card Overview (v1.1.2) by Fraser Elliott aka FraserNotFrasier
+Card Overview (v1.1.3) by Fraser Elliott aka FraserNotFrasier
 
 This program was created to help runners of Yu-Gi-Oh! Forbidden Memories to show the progress of their deck during a run or race. Tools available at the time did not have all of the features I wanted, so I made this.
 
