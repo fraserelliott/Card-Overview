@@ -9,7 +9,7 @@ The buttons on the main panel (with the toolbox) correspond to the boxes in the 
 In OBS, use 'Window Capture' and choose 'Card Overview - Display'. I suggest also picking a chromokey, the default is green (#00FF00) but you can change it in the 'Settings' menu. There is an issue where closing Card Overview might cause you to need to re-select 'Card Overview - Display' in window capture.
 
 Download the latest version:
-https://github.com/fraserelliott/Card-Overview/releases/download/v1.1.2/Card.Overview.1.1.2.zip
+https://github.com/fraserelliott/Card-Overview/releases/download/v1.1.3/Card.Overview.1.1.3.zip
 
 Feel free to contact me if you have any suggestions for or issues with the program.<br>
 Twitch - FraserNotFrasier<br>
