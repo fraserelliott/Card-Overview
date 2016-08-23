@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:card_overview_wpf"
              mc:Ignorable="d" 
              d:DesignHeight="100" d:DesignWidth="100" >
-    <Grid>
+    <Grid Background="Transparent">
         <Grid.ContextMenu>
             <ContextMenu>
                 <MenuItem Header="Select Image" Click="MenuItem_Click" />
