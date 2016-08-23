@@ -1,0 +1,28 @@
+﻿<Window x:Class="card_overview_wpf.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:card_overview_wpf"
+        mc:Ignorable="d"
+        Title="Card Overview - About" Height="300" Width="400" ResizeMode="NoResize" >
+    <Grid>
+        <RichTextBox x:Name="richTextBox" IsReadOnly="True">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Right click on an image and click 'Select Image' to search by id, name, card type (monster, magic, equip, etc) and type (spellcaster, dragon, etc). You can save and load layouts from the 'Layout' menu. 'Column' and 'Row' control the grid of images."/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="This program was created to help runners of Yu-Gi-Oh! Forbidden Memories to show the progress of their deck during a run or race. Tools available at the time did not have all of the features I wanted, so I made this. Feel free to contact me if you have any suggestions for or issues with the program." />
+                    <LineBreak />
+                    <Run Text="Twitch - FraserNotFrasier" />
+                    <LineBreak />
+                    <Run Text="Twitter - @fraserelliott" />
+                    <LineBreak />
+                    <Run Text="Email - fraserelliott@hotmail.com" />
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>
