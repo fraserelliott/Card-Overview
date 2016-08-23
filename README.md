@@ -11,7 +11,7 @@ In OBS, use 'Window Capture' and choose 'Card Overview - Display'. I suggest als
 Download the latest version:
 https://github.com/fraserelliott/Card-Overview/releases/download/v1.1.2/Card.Overview.1.1.2.zip
 
-Feel free to contact me if you have any suggestions for or issues with the program.
+Feel free to contact me if you have any suggestions for or issues with the program.<br>
 Twitch - FraserNotFrasier<br>
 Twitter - @fraserelliott<br>
 Email - fraserelliott@hotmail.com
