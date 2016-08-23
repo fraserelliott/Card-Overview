@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:card_overview_wpf"
         mc:Ignorable="d"
-        Title="Card Overview - Display" Height="300" Width="300" ResizeMode="NoResize" WindowStyle="ToolWindow" Closing="Window_Closing"
+        Title="Card Overview - Display" Height="300" Width="300" ResizeMode="NoResize" Closing="Window_Closing"
         ShowInTaskbar="True">
     <Canvas Name="mainCanvas" />
 

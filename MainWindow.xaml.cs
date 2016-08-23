@@ -502,7 +502,6 @@ namespace card_overview_wpf
         public void LoadSettings()
         {
             string filename = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + "\\settings.dat";
-            Console.WriteLine("Looking for " + filename);
             if (File.Exists(filename))
             {
                 Stream stream;
@@ -541,7 +540,6 @@ namespace card_overview_wpf
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            /*
             LoadCardList();
             LoadSettings();
             foreach (Window window in System.Windows.Application.Current.Windows)
@@ -584,7 +582,6 @@ namespace card_overview_wpf
                 buttons.Add(colB);
                 cards.Add(colC);
             }
-            */
         }
     }
 }
