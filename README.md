@@ -8,7 +8,7 @@ Yu-Gi-Oh! Forbidden Memories is a game that people like to try to complete as qu
 To use, right click a blank box (next to the textbox with a 0 in it) and click on 'Select Image'. Search for a card either by id, name, card type (monster, magic, trap, equip, ritual) or type (spellcaster, dragon, warrior, etc). Pick your selected card and press 'Set'.
 The buttons on the main panel (with the toolbox) correspond to the boxes in the same location on the left.
 
-In OBS, use 'Window Capture' and choose 'Card Overview - Display'. I suggest also picking a chromokey, the default is green (#00FF00) but you can change it in the 'Settings' menu. There is an issue where closing Card Overview might cause you to need to re-select 'Card Overview - Display' in window capture.
+In OBS, use 'Window Capture' and choose 'Card Overview - Display'. I suggest also picking a chromokey, the default is green (#00FF00) but you can change it in the 'Settings' menu. There is an issue where closing Card Overview might cause you to need to re-select 'Card Overview - Display' in window capture. Sadly, there is no fix except for using OBS Studio.
 
 Download the latest version:
 https://github.com/fraserelliott/Card-Overview/releases/download/v1.1.3/Card.Overview.1.1.3.zip
