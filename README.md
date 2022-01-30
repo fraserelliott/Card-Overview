@@ -14,6 +14,6 @@ Download the latest version:
 https://github.com/fraserelliott/Card-Overview/releases/tag/v1.1.3
 
 Feel free to contact me if you have any suggestions for or issues with the program.<br>
-Twitch - FraserNotFrasier
-Discord - frasernotfrasier#2693
+Twitch - FraserNotFrasier<br>
+Discord - frasernotfrasier#2693<br>
 Email - fraserelliott@hotmail.com
